@@ -1,11 +1,11 @@
 import React from 'react'
 
-import HelloReact from  './components/HelloReact'
+import ReactCounter from  './components/ReactCounter'
 
 export default function App() {
   return (
     <div>
-      <HelloReact/>
+      <ReactCounter/>
     </div>
   )
 }

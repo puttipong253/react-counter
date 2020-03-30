@@ -1,6 +1,6 @@
 import React from 'react'
 
-class HelloReact extends React.Component{
+class ReactCounter extends React.Component{
     constructor(props){
         super(props);
         this.state = {
@@ -41,4 +41,4 @@ class HelloReact extends React.Component{
         )
     }
 }
-export default HelloReact;
+export default ReactCounter;
